@@ -10,9 +10,9 @@ He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, an
 
 ### Contact
 
-**Official website**: https://michalsoltysik.com/
-Mail: me@michalsoltysik.com
-LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
-Cybersecurity content: https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
-Accredible: https://www.credential.net/profile/michalsoltysik/wallet
-Credly: https://www.credly.com/users/michal-soltysik
+**Official website**: https://michalsoltysik.com/ <br>
+Mail: me@michalsoltysik.com <br>
+LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/ <br>
+Cybersecurity content: https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY <br>
+Accredible: https://www.credential.net/profile/michalsoltysik/wallet <br>
+Credly: https://www.credly.com/users/michal-soltysik <br>
