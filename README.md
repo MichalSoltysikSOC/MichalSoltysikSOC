@@ -6,7 +6,7 @@ He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, an
 
 **Earned certifications:** CM)CTA | CySA+, C)CSA & C3SA | CCDA | HTB CDSA | C|SA | PSAA | CBTeamer | CBTP | CM)CFI | GCFA | GNFA | C)NFE | C)DFE | eCDFP | CDFEH | ISO/IEC 27037 LI | WCNA | GCED | C|ND | CCD | C)ISSO | CPTA | HTB CPTS | C)PTC | C)PTE | C)PEH | C)VA | RvBCWP | CM)IPS | eCTHP | CRTA | C)TIA | CIoTSP | OOSE | CNSP | CNSE | CCC | CCE | CCSS
 
-**Issued by** GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+**Issued by** GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 ### Contact
 
