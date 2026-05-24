@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Michał Sołtysik is a Cybersecurity Consultant and Blue Team, Purple Team, and Red Team Analyst, bringing a broad and in-depth range of expertise to his cybersecurity practice.
+Michał Sołtysik is a Cybersecurity Consultant and Blue Team, Purple Team, and Red Team Analyst with broad and in-depth expertise across multiple cybersecurity domains.
 
 He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, and SOC Trainer, specializing in SOC operational capability and maturity development, network edge traffic profiling, and adversary emulation in EDR testing.
 
