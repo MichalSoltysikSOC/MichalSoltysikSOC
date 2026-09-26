@@ -12,6 +12,8 @@ He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, an
 
 **Official website**: https://michalsoltysik.com/ <br>
 Mail: me@michalsoltysik.com <br>
+michalsoltysik.com - Official Brand Film: https://www.youtube.com/watch?v=fy-MSHYUMgE
+michalsoltysik.com - Official Brand Film (Short Version): https://www.youtube.com/watch?v=rEMHqwvlXBc
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/ <br>
 Cybersecurity content: https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY <br>
 Accredible: https://www.credential.net/profile/michalsoltysik/wallet <br>
