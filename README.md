@@ -4,9 +4,9 @@ Michał Sołtysik is a Cybersecurity Consultant and Blue Team, Purple Team, and 
 
 He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, and SOC Trainer, specializing in SOC operational capability and maturity development, network edge traffic profiling, and adversary emulation in EDR testing.
 
-**Earned certifications:** CM)CTA | CySA+, C)CSA & C3SA | CCDA & CDA | HTB CDSA | C|SA & CCSA | PSAP | PSAA | CSOA | CBTeamerX | CBTeamer | CBTP | CM)CFI | GCFE | GCFA | GNFA | CCDFA | C)NFE | C)DFE | eCDFP | CDFEH | ISO/IEC 27037 LI | WCNA | GCED | C|ND | CCD & CCCD | C)ISSO | CPTA | CSCO | HTB CPTS | C)PTC | C)PTE | C)PEH | C)VA | RvBCWP | CM)IPS | eCTHP | CRTS | CRTA | CRTO | CRTeamer | CCMA | CRPO | C)TIA | CIoTSP | OOSE | CNSP | CNSE | CCC | CCE | CCSE | CCSS | CDR | CDT | CSEDP
+**Earned certifications:** CM)CTA | CySA+, C)CSA & C3SA | CCDA & CDA | HTB CDSA | C|SA, CCSA & CSA | PSAP | PSAA | CSOA | CBTeamerX | CBTeamer | CBTP | CM)CFI | GCFE | GCFA | GNFA | CCDFA | C)NFE | C)DFE | eCDFP | CDFEH | ISO/IEC 27037 LI | WCNA | GCED | C|ND | CCD & CCCD | C)ISSO | CPTA | CSCO | HTB CPTS | C)PTC | C)PTE | C)PEH | C)VA | RvBCWP | CM)IPS | eCTHP | CRTS | CRTA | CRTO | CPDS | CRTeamer | CCMA | CRPO | C)TIA | CIoTSP | OOSE | CDSP | CNSP | CNSE | CCC | CCE | CCSE | CCSS | CDR | CDT | CSEDP
 
-**Issued by** GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, Level Effect, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council, Global Tech Council and EU Cyber Academy.
+**Issued by** GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, Level Effect, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, The Cyber Ledger, Pacific Certifications, Blockchain Council, Global Tech Council and EU Cyber Academy.
 
 ### Contact
 
